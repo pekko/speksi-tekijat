@@ -1,0 +1,181 @@
+...efektit	Tekniikka
+??	
+Aänet	Tekniikka
+AD	AD
+AD-tiimi	AD
+Apulavastajat	Lavastus
+Apuohjaaja	Apuohjaus
+Apuohjaajat	Apuohjaus
+Apuohjaus	Apuohjaus
+Aputuottaja	
+Aseseppä
+Äänet	Tekniikka
+Äänet & FX	Tekniikka
+Ääni...	Tekniikka
+Äänitekniikka	Tekniikka
+Basisti	Bändi
+Bändi	Bändi
+Bändi: Ali, Baba ja 13 gammelia	Bändi
+Bändi: Earl Drapula	Bändi
+Bändi: pösöö lö nötrö ... TOU!	Bändi
+Bussikuski	Bussisti
+Bussisti	Bussisti
+Catering	Catering
+Dokumentointi	Dokumentointi
+Emäntä & Isäntä	Catering
+Emiliano Zapata y los Gringos Locos con Cojones Grandes del Fueg	bändi
+Graafinen suunnittelu	AD
+Grafiikka	AD
+Grafllkka	AD
+Harjoituspianisti	
+Hauskanpito ja catering	Catering
+Hosajako	Näyttelijä
+Improvisaatiokonsultti
+Isantä	Catering
+Isäntä	Catering
+Jousikvartettissa soittavat / Altto	Bändi
+Jousikvartettissa soittavat / Sello	Bändi
+Jousikvartettissa soittavat / Viulu I	Bändi
+Juhlat	
+Juliste	AD
+Juliste & Web	AD
+Julisteen kuva	AD
+Käsikirjoittajat	Käsikirjoitus
+Käsikirjoitus	Käsikirjoitus
+Käsiohjelma	AD
+Käsiohjelman taitto	AD
+Kiertue	Kiertue
+Kiertueblondit	Kiertue
+Kiertuevastaava	Kiertue
+Koreografia	Koreografia
+Koreografiat	Koreografia
+Koreografit	Koreografia
+Kummitäti
+Kuvat
+Kuvaus	Dokumentointi
+Kuvitus
+Lappeenranta	Kiertue
+Laulattaja	Laulunopetus
+Laulattajat	Laulunopetus
+Laulatus	Laulunopetus
+Laulunopetus	Laulunopetus
+Laulut ja tanssit	
+Lauluvalmennus	Laulunopetus
+Lavastajat	Lavastus
+Lavasteet	Lavastus
+Lavastuksen suunnittelu	Lavastus
+Lavastuksen suunnittelun apuna	Lavastus
+Lavastuksen toteutus	Lavastus
+Lavastus	Lavastus
+Lavastus ja rekvisiitta	Lavastus
+Lehtijutut	Markkinointi
+Lippukauppa	Lipunmyynti
+Lipunmyynti	Lipunmyynti
+Liput	Lipunmyynti
+Loistavaa musiikkikonetta johtaa	Bändi
+Maailmankiertublondi
+Maestro	Bändi
+Maestrot	Bändi
+Markkinointi	Markkinointi
+Maskeeraus	Maskeeraus
+Miekkailunopettaja
+Monsterit OY
+Musiikin sovitus	Sovitus
+Musiikki
+Nachspex	Nachspex
+Natiivit	Kiertue
+Natiivlt	Kiertue
+Näyttämöllä	Näyttelijä
+Näyttämömestari	Näyttämömestari
+Näyttämömestarit	Näyttämömestari
+Näyttelijät	Näyttelijä
+Ohjaaja	Ohjaus
+Ohjaajat	Ohjaus
+Ohjaus	Ohjaus
+Ompelijat	Puvustus
+Ompelu	Puvustus
+Orkesteri	Bändi
+Orkesterin johtaja	Bändi
+Orkesterin johto	Bändi
+Orkesterissa soittavat / b	Bändi
+Orkesterissa soittavat / bclar,esdar,asax	Bändi
+Orkesterissa soittavat / cor	Bändi
+Orkesterissa soittavat / drs	Bändi
+Orkesterissa soittavat / git,bala	Bändi
+Orkesterissa soittavat / p,keys	Bändi
+Orkesterissa soittavat / trb	Bändi
+Orkesterissa soittavat / trp,bclar	Bändi
+Orkesterissa soittavat / trp,esko,flh,bclar	Bändi
+Osat	Näyttelijä
+Oulu	Kiertue
+Oulun järjestelyt	Kiertue
+Paikallinen logistiikka	Kiertue
+Piirrokset	AD
+Piiskuri
+PR	PR
+PR ja markkinointi	PR
+PR-tiimi	PR
+Projektisihteerit
+Pukujen suunnittelu	Puvustus
+Pukusuunnittelu	Puvustus
+Puvustajat	Puvustus
+Puvustus	Puvustus
+Puvustus / ompelijat	Puvustus
+Puvustus / suunnittelu	Puvustus
+Puvut	Puvustus
+Puvut ja maskit	Puvustus
+Puvutus	Puvustus
+Pyrotekniikka	Tekniikka
+Rahastonhoitaja	Rahastonhoitaja
+Rahoitus
+Rakennus + Askartelu	Lavastus
+Rakentajat	Lavastus
+Rekvisiitta	Rekvisiitta
+Rooleissa	Näyttelijä
+Sanoitus	Sanoitus
+Sävellys	Sävellys
+Sovittaja	Sovitus
+Sovitus	Sovitus
+Sovitus (T-paidat)
+Speksin historia
+Speksiorjat / nachspex	Nachspex
+Speksiorjat / ompelija	Puvustus
+Speksiorjat / rakentaja	Lavastus
+Speksipäällikköt
+Sponsorit
+Sponsorivastaava	PR
+Spotit	Tekniikka
+Suomenkiertueblondit	Kiertue
+Tallenteet / Ääni	Dokumentointi
+Tallenteet / Still-kuvaus	Dokumentointi
+Tampere	Kiertue
+Tampereen järjestelyt	Kiertue
+Tanssi	Tanssi
+Tanssi & koreografiat	Tanssi
+Tanssien ohjaus	Koreografia
+Tanssijat	Tanssi
+Tanssijoiden puvustus	Puvustus
+Tanssinohjaus	Koreografia
+Tanssiorkesteri Speksi	Bändi
+Tanssivastaavat	Tanssi
+Taustalaulu	Bändi
+Tehosteet	Tekniikka
+Tekniikka	Tekniikka
+Tekstaajat
+Tila varaukset
+Tilavaraukset
+Tilavastaava
+Traileri	Markkinointi
+Tuotanto	Tuottaja
+Tuottaja	Tuottaja
+Tuottajat	Tuottaja
+Turku	Kiertue
+Ulkovastaava	Kiertue
+Valaistus	Tekniikka
+Valokuva	Dokumentointi
+Valokuvat	Dokumentointi
+Valokuvaus	Dokumentointi
+Valot	Tekniikka
+Videointi	Dokumentointi
+Yrityssuhdetiimi	PR
+Yrityssuhteet ja markkinointi	PR
