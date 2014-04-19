@@ -13,7 +13,7 @@ import MySQLdb
 
 class Tekijat(object):
 	def __init__(self):
-		CREDENTIALS_FILENAME = 'credentials'
+		CREDENTIALS_FILENAME = '.credentials'
 
 		if not os.path.isfile(CREDENTIALS_FILENAME):
 			flow = OAuth2WebServerFlow(client_id='452665123375.apps.googleusercontent.com',
