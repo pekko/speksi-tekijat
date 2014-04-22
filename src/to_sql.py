@@ -6,11 +6,13 @@ import glob
 import MySQLdb as mdb
 import argparse
 
+from secret import db_settings
+
 def usage():
 	print "..."
 
 def main():
-	con = mdb.connect('db1.kapsi.fi', 'pwc', '--- SALASANA TÄHÄN ---', 'pwc')
+	con = mdb.connect(db_settings.host, db_settings.user, db_settings.passwd, db_settings.db)
 	cur = con.cursor()
 
 	parser = argparse.ArgumentParser(description='to be done')
