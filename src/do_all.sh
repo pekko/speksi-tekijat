@@ -9,6 +9,6 @@ for i in ./sql/*.sql;
  	do ./gen.sh $i; 
 done
 
-python ./first-year.py > ~/www/speksi/tekijat/data/first-year.json
+python ./first_year.py > ~/www/speksi/tekijat/data/first-year.json
 
 cd $OLDPWD
