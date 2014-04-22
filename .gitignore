@@ -1,2 +1,3 @@
 graphs
-.credentials
+src/secret
+*.pyc
