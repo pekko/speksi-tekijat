@@ -3,12 +3,19 @@
 DIR="$( cd "$( dirname "$0" )" && pwd )" 
 cd $DIR
 
+[ -e ../data ]   || mkdir ../data
+[ -e ../graphs ] || mkdir ../graphs
+
 python update_db.py
 
-for i in ./sql/*.sql; 
+for i in ./sql/tables/*.sql; 
  	do ./gen.sh $i; 
 done
 
-python ./first_year.py > ~/www/speksi/tekijat/data/first-year.json
+for i in ./sql/json/*.sql;
+	do python sql_json.py $i > ../data/$(basename $i).json;
+done
+
+python ./first_year.py > ../data/first-year.json
 
 cd $OLDPWD
