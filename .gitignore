@@ -3,3 +3,5 @@ graphs
 
 src/secret
 *.pyc
+
+.DS_Store
