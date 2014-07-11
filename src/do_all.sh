@@ -13,7 +13,7 @@ for i in ./sql/tables/*.sql;
 done
 
 for i in ./sql/json/*.sql;
-	do python sql_json.py $i > ../data/$(basename $i).json;
+	do python sql_json.py $i > ../data/$(basename $i .sql).json;
 done
 
 python ./first_year.py > ../data/first-year.json
